@@ -1,2 +1,10 @@
-_gerado
+
+# Documentação gerada
+_gerado/
+
+# Ambiente virtual do Python
+.venv/
+
+# Site do MkDocs
+site/
 

@@ -1,0 +1,7 @@
+site_name: "Livro de SOA: Livro para Sistemas Operacionais Abertos"
+site_author: "<Nome> <Sobrenome>"
+
+
+
+plugins:
+  - mermaid2:

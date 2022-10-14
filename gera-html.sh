@@ -1,9 +1,13 @@
-#!/bin/zsh -xv
+#!/bin/bash -xv
+
+CWD=$(dirname $0)
+cd $CWD
 
 make clean
 make html
 make html
-# clear
+clear
+
 cat << FIM
 
 ===================================

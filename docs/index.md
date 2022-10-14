@@ -1,4 +1,4 @@
-# ASA-Book: Livro para Administração de Sistemas Abertos
+# Livro de SOA: Livro para Sistemas Operacionais Abertos
 
 ```{toctree}
 :maxdepth: 1
@@ -14,8 +14,8 @@ referencias.md
 * {ref}`search`
 
 
-## Testes
+## Teste de citação
 
-See {cite:t}`1987:nelson` for an introduction to non-standard analysis.
-Non-standard analysis is fun {cite:p}`1987:nelson`.
+Veja {cite:t}`1987:nelson` para uma introdução a análises não padrão.
+A análise fora é divertida {cite:p}`1987:nelson`.
 

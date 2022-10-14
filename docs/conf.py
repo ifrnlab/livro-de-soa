@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'ASA-Book: Livro para Administração de Sistemas Abertos'
+project = 'Livro de SOA: Livro para Sistemas Operacionais Abertos'
 copyright = '2022, <Nome> <Sobrenome>'
 author = '<Nome> <Sobrenome>'
 release = '2022.2'
