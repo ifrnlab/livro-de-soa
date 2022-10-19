@@ -8,7 +8,7 @@ extensoes_code=(
   shd101wyy.markdown-preview-enhanced
 )
 
-for ext in ${extensoes_code[@]}
+for ext in "${extensoes_code[@]}"
   do
-    code --install-extension $ext
+    code --install-extension "$ext"
   done
